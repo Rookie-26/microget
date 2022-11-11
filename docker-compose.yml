@@ -1,0 +1,11 @@
+version: "3.7"
+services:
+ proyecto-univ:
+  container_name: proyecto-univ-micro
+  image: rookie26/microget2
+  ports:
+   - "5000:5000"
+  networks:
+   - pycto-univ
+networks:
+ pycto-univ:
