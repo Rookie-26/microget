@@ -14,6 +14,7 @@ Los demás servicios de:
 - Tipo Proyecto (Get, Post y Put)
 - Universidad (Get, Post y Put)
 - Cliente (Get, Post y Put)
+
 Están en el módulo core: https://github.com/Rookie-26/core2micro
 
 Este módulo microservicio Get Proyecto, también se encuentra en Docker Hub:
